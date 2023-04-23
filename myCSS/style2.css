@@ -1,0 +1,72 @@
+
+#gotohome{
+    text-decoration: none;
+    position: absolute;
+    margin-top: -85px;
+    margin-left: 1170px;
+    font-size: xxx-large;
+    font-weight: 700;
+    color: darkmagenta;
+}
+
+#gotohome:hover{
+    color:rgb(193, 22, 51);
+}
+
+body{
+   background-color: rgb(251, 255, 0);
+height: 100%;
+width: 100%;
+margin: 0%;
+}
+.heading{
+    margin-left: 16.9rem;
+    color: indianred;
+    font-size: xx-large;
+    font-family: ui-rounded;
+    position: absolute;
+    margin-top: -6rem;
+}
+.gotohome{
+    text-decoration: none;
+    background-color: transparent;
+    color:rgb(124, 12, 12);
+    margin-top: -6rem;
+    margin-left: 2rem;
+    position: absolute;
+}
+.gotohome:hover{
+    color:red;
+    text-decoration: underline;
+    opacity: 0.7;
+}
+.gotohome:active{
+color: blueviolet;
+}
+.favDiv{
+    margin-top: 6rem;
+}
+.favImage{
+    height: 10rem;
+    position: absolute;
+    margin-left: 21rem;
+
+}
+.deleteimage{
+    height: 2rem;
+}
+.deleteimage:hover{
+    opacity: 0.7;
+    background-color: red;
+    transition: 0.5s;
+}
+.aaaad{
+    font-family: sans-serif;
+    color: rgb(105, 9, 9);
+    font-size: larger;
+    font-weight: 600;
+}
+::marker{
+    color: rgb(49, 5, 5);
+    font-size: larger;
+}
